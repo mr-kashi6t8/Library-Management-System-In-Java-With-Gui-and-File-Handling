@@ -1,0 +1,4 @@
+1,OOP,Kashi,Comsats,true
+2,English,Thomas Shelby,Comsats,true
+3,Discrete Structure,Sir Zain,Comsats,true
+4,Discrete Structure ,abc,comsats,true
